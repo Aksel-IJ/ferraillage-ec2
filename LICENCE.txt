@@ -1,0 +1,33 @@
+FERRAILLAGE EC2 - CONDITIONS D'UTILISATION
+
+Ferraillage EC2 est un outil gratuit d'aide au calcul du ferraillage des linteaux et
+raidisseurs en béton armé selon l'Eurocode 2 (EN 1992-1-1), avec les valeurs
+recommandées et sans Annexe Nationale.
+
+1. Usage
+   Vous pouvez installer et utiliser ce logiciel librement, à titre personnel ou
+   professionnel, et le partager sans modification.
+
+2. Vérification obligatoire
+   Les résultats, notes de calcul, plans et nomenclatures produits par le logiciel
+   doivent être vérifiés et validés par un ingénieur qualifié avant toute utilisation
+   sur un projet réel. Il appartient à l'utilisateur de vérifier l'adéquation des
+   hypothèses (normes, Annexe Nationale, charges, enrobages, dispositions
+   constructives) avec son projet.
+
+3. Absence de garantie
+   Le logiciel est fourni « tel quel », sans garantie d'aucune sorte, expresse ou
+   implicite, notamment de bon fonctionnement, d'exactitude des résultats ou
+   d'adéquation à un usage particulier.
+
+4. Limitation de responsabilité
+   L'auteur ne pourra en aucun cas être tenu responsable des dommages directs ou
+   indirects résultant de l'utilisation ou de l'impossibilité d'utiliser le logiciel,
+   y compris en cas d'erreur de calcul.
+
+5. Export DWG
+   L'export au format DWG nécessite AutoCAD installé sur l'ordinateur. À défaut, le
+   plan est enregistré au format DXF, lisible par AutoCAD et la plupart des logiciels
+   de DAO.
+
+En installant ce logiciel, vous acceptez ces conditions.
